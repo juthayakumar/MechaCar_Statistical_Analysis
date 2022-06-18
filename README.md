@@ -32,3 +32,13 @@ These are the sample tests that were ran. We can see that for all of the manufac
 For Lots 1 & 2, they are both similar, and are not statistically significant from normal distribution, so there is not enough evidence to reject the null hypothesis. The mean falls within 95% confidence interval for the both of them.
 
 For Lot 3, there is statistical significance from the normal distribution.
+
+## Study Design: MechaCar vs Competition
+
+A statistical study that can quantify how the MechaCar performs against competition can use metrics for consumers such as cost, fuel efficiency, safety rating, horse power and mantinenance cost. 
+
+- What metric or metrics are you going to test? I am going to test fuel efficiency, with regards to recent increase in gas prices.
+- What is the null hypothesis or alternative hypothesis? The null hypothesis is that the fuel efficiency is zero, and alternative hypothesis is that the fuel efficiency is not zero.
+- What statistical test would you use to test the hypothesis? And why? A mulitple linear regression statistical summary can show how variables impact fiel efficiency in MechaCar vs competitors. 
+- What data is needed to run the statistical test? A sample of cars from MechaCar and competitors would be needed, and we would have to test their fuel efficiency at different speeds and distances. 
+
